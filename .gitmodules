@@ -1,3 +1,4 @@
 [submodule "repositories/controlnet"]
 	path = repositories/controlnet
-	url = https://github.com/lllyasviel/ControlNet-v1-1-nightly.git
+	url = https://github.com/cf/ControlNet-v1-1-nightly.git
+	commit = 08f208977b948558567b11018b91e996952b0d2d
